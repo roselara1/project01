@@ -1,0 +1,55 @@
+/*app style*/
+
+html {
+  height: 100%;
+
+}
+body {
+  margin: 0;
+  height: 100%;
+  font-family: Arial;
+}
+a {
+  color: black;
+}
+header {
+  padding: 10px;
+  background-color: #724502;
+  text-color: #915803;
+  text-align: center;
+  text-transform: capitalize;
+
+
+}
+
+nav {
+  width: 200px;
+  min-height: 900px;
+  float: left;
+  background-color: tan;
+  margin-right: 20px;
+  list-style: none;
+}
+
+section {
+  width: 500px;
+  float: left;
+  padding: 5px;
+}
+
+
+nav ul{
+  list-style: none;
+
+}
+nav ul li{
+  margin: 10px
+
+
+}
+footer{
+  clear: center;
+  padding: 5px;
+  background: #724702;
+  text-align: center;
+}

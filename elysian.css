@@ -1,0 +1,67 @@
+/* app styles */
+html {
+  height: 100%;
+}
+body {
+  margim: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  color: #fff;
+
+}
+
+header {
+  padding: 10px;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  text-shadow: 1px 1px 1px 1px red;
+}
+nav {
+  width: 200px;
+  min-height: 458px;
+  float: left;
+  background: #669900;
+  margin-right: 10px;
+}
+
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: grey;
+  text-align: center;
+}
+
+article img {
+  height: 400px;
+}
+
+article h2, h2 {
+  background: #999933;
+  text-align: center;
+  color: #fff;
+}
+article h3 {
+  text-align: center;
+  background: #99cc66;
+}
+article li {
+  background: #99ff66;
+  list-style: none;
+}
+img {
+  margin-left: 40px;
+}

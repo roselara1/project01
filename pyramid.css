@@ -1,0 +1,52 @@
+/* app styles */
+
+html {
+    height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+color: black;
+}
+
+header {
+  padding: 10px;
+  background: #800020;
+  color: white;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  min-height: 900px;
+  float: left;
+  background: #eab115;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+section {
+  width: 500px;
+  float: left;
+  padding: 5px;
+}
+
+
+footer {
+clear: left;
+padding: 10px;
+background: grey;
+text-align: center;
+}

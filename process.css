@@ -1,0 +1,61 @@
+/* app styles */
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  color: #fff;
+}
+
+header {
+  padding: 10px;
+  background: #739900;
+  color: #fff;
+  text-align: center;
+  text-shadow: 1px 1px 1px black;
+}
+
+nav {
+  width: 200px;
+  min-height: 1000px;
+  float: left;
+  background: #000000;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+article ul li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+section {
+  width: 500px;
+  float: left;
+  padding: 5px;
+}
+
+img {
+  width: 700px;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: #739900;
+  text-align: center;
+}
